@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<head>
+<title>2nd Quarter Portfolio</title>
+ <link rel="stylesheet" href="2ndport.css">
+</head>
+
+<body>
+
+<table cellspacing="10">
+<tr>
+<td>
+<img src="hole.png" height="73" width="80" alt="Black Hole">
+</td>
+<td>
+<h1 style="color:white">Lesson Codes</h1>
+<h4 style="color:white"><i>The things we do during the quarter.</i></h4>
+</td>
+</tr>
+</table>
+
+
+<hr>
+<table style="font-size:20" cellspacing="20">
+<tr>
+
+<th><a href="Home2.html" target="_self">Home</a></th>
+<th><a href="Activities2.html" target="_self">Lesson Codes</a></th>
+<th><a href="Reflection2.html" target="_self">Reflection</a></th>
+
+</tr>
+</table>
+<hr>
+
+
+
+<table align="center" bgcolor="White" bordercolor="Yellow" border="6" cellpadding="10" width="400">
+<th colspan="2" bgcolor="Yellow">
+Examples
+</th>
+<tr bgcolor="LightGray">
+<td>Lessons 1 and 2</td>
+<td><img src="C1.png"></td>
+<td><img src="O1.png"></td>
+</tr>
+
+<tr>
+<td>Lesson 3</td>
+<td>/30</td>
+</tr>
+
+<tr bgcolor="LightGray">
+<td>Lesson 4</td>
+<td>/30</td>
+</tr>
+
+<tr>
+<td>Lesson 5</td>
+<td>/30</td>
+</tr>
+
+<tr bgcolor="LightGray">
+<td>Lesson 6</td>
+<td>/30</td>
+</tr>
+
+<tr>
+<td>Lesson 7</td>
+<td>/30</td>
+</tr>

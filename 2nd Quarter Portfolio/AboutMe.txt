@@ -1,0 +1,62 @@
+<html>
+<head>
+<style>
+a:link, a:visited {
+  background-color: #0d1e67;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #090324;
+}
+</style>
+<title>
+1st Quarter Portfolio
+</title>
+</head>
+
+<body background="sky.jpg">
+<table cellspacing="10">
+<tr>
+<td>
+<img src="cube.png" height="55" width="55" alt="Cube">
+</td>
+<td>
+<h1 style="color:white; font-size:35">About Me</h1>
+</td>
+</tr>
+</table>
+
+
+<hr>
+<table style="font-size:20" cellspacing="20">
+<tr>
+
+<th><a href="Home.html" target="_self">Home</a></th>
+<th><a href="AboutMe.html" target="_self">About Me</a></th>
+<th><a href="Activities.html" target="_self">Activities</a></th>
+<th><a href="Reflection.html" target="_self">Reflection</a></th>
+
+</tr>
+</table>
+<hr>
+
+<h1 align="justify" style="background-color:#0d1e67; color:white">Hello there! My name is Chase Euno G. Leonardia of Grade 9 Faith here to introduce myself. I am a typical individual who likes to play a lot such as Roblox, Geometry Dash and Genshin Impact. I usually talk to people but mostly my friends since I am most comfortable with. Typically speaking I am very much introverted. My mother tongue is english since I was influenced by my cousins to speak since age 3. My favorite subject is science since I mostly wander about space and galaxies reffering to my background image. If you can tell then this portfolio was made September 30, 2024 at 4pm. This makes me very bad at time management.</h1>
+<br>
+<br>
+<h1 align="justify" style="background-color:#0d1e67; color:white">My favorite food is kare-kare because of the unique peunut butter taste with the juicy meat. I have 2 siblings and both are boys. I do not usually recite that much since I am afraid I might get it wrong but I still try. I usually help my classmates whenever they need something that is usually out of the question but I agree anyways. I belong to multiple friend groups including a group that I founded. We have common interests and share different intelligence.</h1>
+
+<div style="text-align: center;">
+<video width="500" controls>
+  <source src="marinas.mp4" type="video/mp4">
+  Sorry! We ran into a problem.
+</video>
+
+<img src="wash.jpg">
+
+</body>
+</html>

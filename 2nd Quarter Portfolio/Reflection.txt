@@ -1,0 +1,48 @@
+<html>
+<head>
+<style>
+a:link, a:visited {
+  background-color: #0d1e67;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #090324;
+}
+</style>
+<title>
+1st Quarter Portfolio
+</title>
+</head>
+
+<body background="sky.jpg">
+<table cellspacing="10">
+<tr>
+<td>
+<img src="cube.png" height="55" width="55" alt="Cube">
+</td>
+<td>
+<h1 style="color:white; font-size:35">Hello User!</h1>
+</td>
+</tr>
+</table>
+
+
+<hr>
+<table style="font-size:20" cellspacing="20">
+<tr>
+
+<th><a href="Home.html" target="_self">Home</a></th>
+<th><a href="Lessons.html" target="_self">Lessons</a></th>
+<th><a href="Activities.html" target="_self">Activities</a></th>
+<th><a href="Reflection.html" target="_self">Reflection</a></th>
+
+</tr>
+</table>
+<hr>
+
+<h1 style="background-color:#514065; color:white" align="justify">This quarter, I have learned many things that I can apply into this portfolio. It was kind of easy but once you know the different uses of these codes then you will know the functions and maximize its use. I would not consider myself decent as I am pretty knew to coding so I get help from my friends. This helped me a ton in coding which is quite challenging considering you need to follow specific commands in order to work. It was very tough for me on learning the new codes as I am not aware for the specific symbols. I still managed to learn and apply these things into the portfolio itself. I am expecting that 2nd Quarter will be much more harder than this since there are more complicated codes we have to tackle. There are many things to come that will improve my knowledge.

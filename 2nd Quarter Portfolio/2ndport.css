@@ -1,0 +1,29 @@
+
+a:link, a:visited {
+  background-color: #79250b;
+  color: orange;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #220402;
+}
+
+
+body {
+  background-image: url('arcturus.jpg');
+}
+
+img {
+  float: left;
+  margin: 5px;
+}
+
+
+video {
+  float: left;
+  margin: 5px;
+}

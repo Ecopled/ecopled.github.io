@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+ <title>2nd Quarter Portfolio</title>
+ <link rel="stylesheet" href="2ndport.css">
+</head>
+
+<body>
+
+<table cellspacing="10">
+<tr>
+<td>
+<img src="hole.png" height="73" width="80" alt="Black Hole">
+</td>
+<td>
+<h1 style="color:white">Home</h1>
+<h4 style="color:white"><i>Where all things began.</i></h4>
+</td>
+</tr>
+</table>
+
+
+<hr>
+<table style="font-size:20" cellspacing="20">
+<tr>
+
+<th><a href="Home2.html" target="_self">Home</a></th>
+<th><a href="Activities2.html" target="_self">Lesson Codes</a></th>
+<th><a href="Reflection2.html" target="_self">Reflection</a></th>
+<th><a href="Moments2.html" target="_self">Moments</a></th>
+<th><a href="Home.html" target="_self">1st Quarter</a></th>
+
+</tr>
+</table>
+<hr>
+
+<img src="homies.jpg" height="500px" width="700px">
+<pre>
+<p style="color:white; font-size:20px">Hello user.
+ 
+Since you're here because of your curiosity or
+determined to check it, allow me to have my 
+thanks as gratitude for accessing my hard work 
+and dedication. The contents are waiting for you...
+</p>
+
+<p style="color:#dfbfe4; font-size:20px">If you want, there is a music button below 
+to ease your experience.</p>
+</pre>
+
+<audio controls>
+  <source src="SlowDown.mp3">
+Your browser does not support the audio.
+</audio>
+
+</body>
+</html>

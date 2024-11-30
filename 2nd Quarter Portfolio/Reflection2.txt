@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head>
+ <title>2nd Quarter Portfolio</title>
+ <link rel="stylesheet" href="2ndport.css">
+</head>
+
+<body>
+
+<table cellspacing="10">
+<tr>
+<td>
+<img src="hole.png" height="73" width="80" alt="Black Hole">
+</td>
+<td>
+<h1 style="color:white">Reflection</h1>
+<h4 style="color:white"><i>A summary of how things end up to you.</i></h4>
+</td>
+</tr>
+</table>
+
+
+<hr>
+<table style="font-size:20" cellspacing="20">
+<tr>
+
+<th><a href="Home2.html" target="_self">Home</a></th>
+<th><a href="Activities2.html" target="_self">Lesson Codes</a></th>
+<th><a href="Reflection2.html" target="_self">Reflection</a></th>
+<th><a href="Moments2.html" target="_self">Moments</a></th>
+<th><a href="Home.html" target="_self">1st Quarter</a></th>
+
+</tr>
+</table>
+<hr>
+
+<video controls src="Funny.mp4" height="500px" width="700px">
+Your browser does not support video.
+</video>
+
+<p style="color:white; font-size:20px">
+So for 2nd Quarter... I did plenty questionable things but before that, let us tackle the one and only... <b>CSS</b>. Overall it was a rough quarter for me especially the recitation where I had the same question twice in order to get the correct answer. Because of that, I got 3 points without even trying. Although I could've gotten 5, I am thankful for that oppurtunity.
+<br>
+<br>
+I also forgot about CSS, but because of this editing code, I was able to make this browser with ease. (Except it is actually a mix of internal and external CSS.) Basically it helped me get this work fast and easy. If I can recall, I did forget what value to use in order to change color with the style attribute. That slowed me down alot. But I am grateful for Ms. Uminga to teach us the ways of technology and coding.
+<br>
+<br>
+As for 3rd Quarter, well I'll make sure to understand it very well and clearly. But before that...
+</p>
+<p style="color:green; font-size:40px">
+We have</p><p style="color:red; font-size:40px">Christmas Break!</p>
+
+
+<audio controls>
+  <source src="Panorama.mp3">
+Your browser does not support the audio.
+</audio>
+
+</body>
+</html>
